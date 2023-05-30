@@ -69,6 +69,10 @@
         flex-direction: column;
     }
 
+    .nav {
+        z-index: 9;
+    }
+
     
    
  
